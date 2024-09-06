@@ -1,0 +1,8 @@
+Monday: Hi Ali, this is your manager. For today, familiarize yourself with Kubernetes architecture, core components, and concepts.
+Tuesday: Hi Ali, this is your manager. For today, install Minikube or Docker Desktop to set up a local Kubernetes environment.
+Wednesday: Hi Ali, this is your manager. For today, create and deploy a basic Pod using a YAML configuration file.
+Thursday: Hi Ali, this is your manager. For today, set up a Service to expose your Pod and understand ClusterIP, NodePort, and LoadBalancer services.
+Friday: Hi Ali, this is your manager. For today, learn how to use ConfigMaps and Secrets to manage configuration and sensitive data.
+Saturday: Hi Ali, this is your manager. For today, create and manage Deployments to ensure that the desired number of Pods are running.
+Sunday: Hi Ali, this is your manager. For today, understand and use Namespaces to organize resources and isolate workloads.
+
